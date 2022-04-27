@@ -1,0 +1,5 @@
+{"_id":1,"name":"Shoaib","political_party_id":1,"constituency_id":1}
+{"_id":2,"name":"Asfand","political_party_id":1,"constituency_id":1}
+{"_id":3,"name":"Hassan","political_party_id":2,"constituency_id":1}
+{"_id":4,"name":"Ali","political_party_id":2,"constituency_id":1}
+{"_id":5,"name":"Ali","political_party_id":6,"constituency_id":1}

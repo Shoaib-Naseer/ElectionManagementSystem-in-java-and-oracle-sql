@@ -1,0 +1,3 @@
+{"_id":{"$oid":"61d735239fc2e42a7d5a2678"},"cnic":"6110182136059","email":"shoaibnaseer1111@gmail.com"}
+{"_id":{"$oid":"61d735439fc2e42a7d5a2679"},"cnic":"6110182136058","email":"shoaibnaseer1234@gmail.com"}
+{"_id":{"$oid":"61d735589fc2e42a7d5a267a"},"cnic":"6110182136057","email":"shoaibnaseer1122@gmail.com"}
